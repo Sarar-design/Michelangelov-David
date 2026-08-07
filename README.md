@@ -97,10 +97,6 @@ Michelangelov-David/
 ├── gradivo1.php                    # Učno gradivo o Michelangelovem Davidu
 ├── index.php                       # Začetna (domača) stran aplikacije
 ├── ponovitev.php                   # Stran za ponovitev učne snovi
-│
-├── .gitignore                      # Datoteke, ki jih Git ne spremlja
-├── LICENSE                         # Licenca projekta (MIT)
-└── README.md                       # Dokumentacija projekta
 ```
 ---
 
