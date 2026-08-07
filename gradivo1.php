@@ -41,8 +41,8 @@ $pageTitle = 'Gradivo';
             </div>
             <div class="col-md-4 d-flex align-items-center justify-content-center">
                 <div class="d-flex flex-column gap-3 w-100">
-                    <img src="assets/images/Verocchio.jpeg" alt="Kip Verocchia" class="article-image article-image-sm">
-                    <img src="assets/images/Donatello.jpeg" alt="Kip Donatella" class="article-image article-image-sm">
+                    <img src="assets/images/Verocchio.jpeg" alt="Kip Verocchia" class="article-image article-image">
+                    <img src="assets/images/Donatello.jpeg" alt="Kip Donatella" class="article-image article-image">
                 </div>
             </div>
                     </div>
